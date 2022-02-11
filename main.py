@@ -1,6 +1,4 @@
 import pyray
-import os
-import random
 
 from shared.color import Color
 from shared.point import Point
